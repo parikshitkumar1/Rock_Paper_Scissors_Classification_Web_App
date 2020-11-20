@@ -1,6 +1,6 @@
 # RPS Classification App
 ## Motivation
-Implementing a resnet model and making a front-end for it
+Implementing and deploy a resnet model and making a front-end for it
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python

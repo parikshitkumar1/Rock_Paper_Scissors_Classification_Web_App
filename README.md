@@ -8,7 +8,7 @@ $ pip3 install -r requirements.txt
 ```
 ## To run
 ```python
-$ python3 rps.py
+$ streamlit run rps.py
 ```
 ## Extra Requirements
 Resnet9 Model based on The "PyTorch for Deep Learning" tutorials from freeCodeCamp.org and Jovian.ai</br> </br>

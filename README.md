@@ -1,5 +1,5 @@
 ---
-# RPS Classification App
+# RPS Classification Web App
 ## Motivation
 To deploy a highly accurate PyTorch based resnet model with streamlit and heroku
 ## Requirements

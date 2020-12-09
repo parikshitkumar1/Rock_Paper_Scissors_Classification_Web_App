@@ -13,7 +13,7 @@ $ streamlit run rps.py
 >>or simply check it out here: https://uwu-rps.herokuapp.com/
 
 ## Extra Requirements
-Resnet9 Model based on The "PyTorch for Deep Learning" tutorials from freeCodeCamp.org and Jovian.ai</br> </br>
+Resnet Model based on The "PyTorch for Deep Learning" tutorials from freeCodeCamp.org and Jovian.ai</br> </br>
 Streamlit app based on a similar app which can be found here: https://github.com/terryz1/Image_Classification_App </br> </br>
 ## Examples
 

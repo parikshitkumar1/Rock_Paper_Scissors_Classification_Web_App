@@ -27,7 +27,7 @@ Streamlit app based on a similar app which can be found here: https://github.com
 ![3](https://user-images.githubusercontent.com/52780573/99145246-1cca4c80-2693-11eb-853d-71776bc77d8e.PNG)
 
 ## To do
-- [ ] nothing,works like a charm
+- [ ] Nothing
 ---
 
 

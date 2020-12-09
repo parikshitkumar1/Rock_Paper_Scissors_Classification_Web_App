@@ -11,7 +11,7 @@ $ pip3 install -r requirements.txt
 ```python
 $ streamlit run rps.py
 ```
-## or simply check it out here: https://uwu-rps.herokuapp.com/
+## or, check it out here: https://uwu-rps.herokuapp.com/
 
 ## Extra Requirements
 Resnet Model based on The "PyTorch for Deep Learning" tutorials from freeCodeCamp.org and Jovian.ai</br> </br>

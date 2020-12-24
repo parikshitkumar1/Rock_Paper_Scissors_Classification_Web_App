@@ -1,7 +1,7 @@
 ---
 # RPS Classification Web App
 ## Motivation
-To deploy a highly accurate PyTorch based resnet model with streamlit and heroku
+To deploy a highly accurate PyTorch based resnet model with streamlit on heroku
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
